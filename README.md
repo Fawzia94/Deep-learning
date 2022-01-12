@@ -7,4 +7,4 @@ We will use deep learning models to build our Resume recommendation system.
 
 
 
-To achieving our goal we started to analyse our data. this chart shows the job Category distribution.  
+To achieving our goal we started to analyse our data. this chart shows the jobs distribution.  
