@@ -25,4 +25,4 @@ The dataset is images data include three classes: Healthy plant, Early blight pl
 After testing our model this figure show how we got a perfect accuracy.
 
 
-![final](https://user-images.githubusercontent.com/93079353/150239451-55916df9-e19d-48e9-bb1c-e775051ee834.png)
+![ppt pic (3)](https://user-images.githubusercontent.com/93079353/150645533-5b280a2f-2bda-4aab-abc3-a335faf51212.png)
