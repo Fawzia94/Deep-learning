@@ -1,4 +1,4 @@
-# Plant Disease Classification
+# Smart Classification of Plant Disease
 ## MVP
 
 
